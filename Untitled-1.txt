@@ -1,0 +1,9 @@
+https://youtu.be/D-h8L5hgW-w?t=4007
+1) script kaam nhi kr  rhe 
+2) hover tag not work ? code ma koi issue arha kiya ? .. bookmark line 190 main.SCSS
+3) z-index kiya kaam krta y smjh nhi aya ..line 170 main.SCSS
+4) cursor kis liya usee ho raha hai ? line 199 main.scss
+5) media screen @ 1080px {
+    contact-section ma css kaam nhi kr rhe 
+    
+}
